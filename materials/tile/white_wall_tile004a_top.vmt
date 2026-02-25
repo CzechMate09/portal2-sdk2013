@@ -12,6 +12,7 @@ $ssbump 1
 
 $detailscale ".7"
 $detailblendfactor .15
-$detailblendmode 1
+//$detailblendmode 1
+$detailblendmode 0
 "%keywords" "portal2 chamber"
 }

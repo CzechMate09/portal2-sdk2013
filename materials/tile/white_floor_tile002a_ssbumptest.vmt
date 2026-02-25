@@ -13,6 +13,7 @@ $reflectivity "[ .75 .75 .75 ]"
 $detail "detail\white_floor_detail_height-ssbump"
 $detailscale 128
 
-$detailblendmode 10
+//$detailblendmode 10
+$detailblendmode 0
 "%keywords" "portal2 chamber"
 }

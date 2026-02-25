@@ -12,6 +12,7 @@ $envmaptint .3 .3 .3
 $detail "detail\white_floor_detail_height-ssbump"
 $detailscale 80
 $detailblendfactor 1
-$detailblendmode 10
+//$detailblendmode 10
+$detailblendmode 0
 "%keywords" "portal2 chamber"
 }

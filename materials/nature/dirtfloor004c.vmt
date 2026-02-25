@@ -9,7 +9,8 @@ $ssbump 1
 $detail "detail/detail_tile02"
 $detailscale 6
 $detailblendfactor .4
-$detailblendmode 7
+//$detailblendmode 7
+$detailblendmode 0
 $envmaplightscale 0.6
 $envmap "metal/black_wall_envmap_002a_hdr"
 $normalmapalphaenvmapmask 1
